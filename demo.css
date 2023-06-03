@@ -1,0 +1,62 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#head{
+    border: 1px solid red;
+    width: 1345px;
+    height: 40px;
+    /* position: fixed;
+    top: 0%; */
+}
+#head1{
+    margin-top: 10px;
+}
+#one{
+    border-right: 1px solid black;
+    height: 30px;
+    font-size: 12px;
+    margin-left: 10px;
+    padding-right: 10px;
+    padding-top:-50px ;
+    padding-top: 10px;
+    text-decoration: none;
+}
+#contact{
+    text-decoration: none;
+    font-size: 13px;
+    margin-left: 80px;
+    
+}
+/* second line */
+#lens{
+    border: 1px solid blue;
+    background-color: white;
+    width: 1345px;
+    height: 900px;
+    position: sticky;
+    z-index: -1;
+    margin-top: 0px;
+}
+#two{
+    position: sticky;
+    top: 0%;
+    /* display: flex; */
+}
+h2{
+    margin-left: 50px;
+}
+#three{
+    /* position: sticky;
+    top: 0%; */
+    margin-top: -20px;
+    margin-left: 400px;
+    
+}
+input{
+    border: 1px solid gray;
+    width: 500px;
+    height: 40px;
+    border-radius: 10px;
+    
+}

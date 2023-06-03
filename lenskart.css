@@ -1,0 +1,169 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#input{
+    border: 1px solid red;
+    width: 1327px;
+    height: 30px;
+    /* position: fixed; */
+    padding-left: 20px;
+    background-color: white;
+}
+table tr th{
+    border-left: 1px solid black;
+   
+}
+th{
+   font-size: 13px;
+   padding: 5px;
+}
+#lens{
+    border: 1px solid blue;
+    background-color: white;
+    width: 1345px;
+    height: 200px;
+    position: sticky;
+    z-index: -1;
+}
+#one{
+    position: sticky;
+    top: 0%;
+    display: flex;
+}
+h2{
+    margin-left: 50px;
+}
+#box{
+    /* border: 1px solid gray; */
+    width: 1000px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left:100px ;
+}
+#link{
+    /* border: 1px solid black; */
+    width: 1000px;
+    height: 40px;
+   margin-left: 330px;
+   background-color: white;
+}
+#link1{
+    padding-left: 20px;
+}
+#head{
+    /* border: 1px solid black ; */
+    background-color: white;
+    width: 1000px;
+    height: 40px;
+    margin-top: 5px;
+    position: sticky;
+    top: 40px;
+    z-index: -1;
+}
+#head1{
+    text-decoration: none;
+    padding-left: 15px;
+    color: black;
+    
+}
+
+
+
+#ptos{
+    border: 1px solid gray;
+    background-color: white;
+    height: 900px;
+    margin-top: 10px;
+}
+p{
+    text-align:  center;
+    margin-top: 105px;
+}
+#eyeglass{
+    border: 3px solid white;
+    border-bottom: 30px solid white;
+    border-radius: 5px;
+    width: 200px;
+    height: 100px;
+    background-image: url("/eyeglass");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0px;
+    margin-left: 10px;
+    padding-top: 10px;
+    position: absolute;
+    
+}
+#sunglass{
+    border: 3px solid white;
+    border-bottom: 30px solid white;
+    border-radius: 5px;
+    width: 200px;
+    height: 100px;
+    background-image: url("/sunglass");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0px;
+    margin-left: 230px;
+    padding-top: 10px;
+    position: absolute;
+}
+#computerglass{
+    border: 3px solid white;
+    border-bottom: 30px solid white;
+    border-radius: 5px;
+    width: 200px;
+    height: 100px;
+    background-image: url("/computerglass");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0px;
+    margin-left: 450px;
+    padding-top: 10px;
+    position: absolute;
+}
+#contactlens{
+    border: 3px solid white;
+    border-bottom: 30px solid white;
+    border-radius: 5px;
+    width: 200px;
+    height: 100px;
+    background-image: url("/contactlens");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0px;
+    margin-left: 670px;
+    padding-top: 10px;
+    position: absolute;
+}
+#powerglass{
+    border: 3px solid white;
+    border-bottom: 30px solid white;
+    border-radius: 5px;
+    width: 200px;
+    height: 100px;
+    background-image: url("/powerglass");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0px;
+    margin-left: 890px;
+    padding-top: 10px;
+    position: absolute;
+}
+#prograssivelens{
+    border: 3px solid white;
+    border-bottom: 30px solid white;
+    border-radius: 5px;
+    width: 200px;
+    height: 100px;
+    background-image: url("/pro");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0px;
+    margin-left: 1110px;
+    padding-top: 10px;    
+}
+
+
+
